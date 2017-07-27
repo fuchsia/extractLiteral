@@ -1,0 +1,12 @@
+{
+   "name": "extractLiteral",
+   "description": "Experimental extractLiteral shim",
+   "version": "0.1.0",
+   "main": "main.js",
+   "devDependencies": {
+      "jasmine": "^2.6.0"
+   },
+   "scripts": {
+      "test": "jasmine --config=jasmine.json"
+   }
+}
